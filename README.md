@@ -30,7 +30,7 @@ __- 💻 Technologies & Tools__:
 [![MSSQL](https://img.shields.io/badge/-MSSQL-yellow?style=flat&logo=sqlserver&logoColor=purple&link=https://github.com/Quananhle)](https://github.com/Quananhle/Database-Management/tree/master/SQL)
 [![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=orange&link=https://github.com/Quananhle)](https://github.com/Quananhle/Database-Management/tree/master/SQL) 
   -->
-  __- Program languages__: 
+  __-Program languages__: 
  
  <p align="left">
    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/csharp_dotnet.svg" alt="DotNet" style="height="10">
