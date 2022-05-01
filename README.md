@@ -5,6 +5,6 @@ Trabalho com desenvolvimento e manutenção de softwares coorporativos desde 200
 
 - 🔭Atualmente trabalho como .Net Developer Sr.
 - 🏆Sou formado em Analise e Desenvolvimento de Sistemas
-- 💬Email / Skype : ​​ reginaldo.teixeira.ti@live.com 
+- 💬Email / Skype : ​​ reginaldo.teixeira.ti@gmail.com 
 - 📫 LinkedIn : https://www.linkedin.com/in/reginaldo-teixeira/
 - ⚡Verifique meus repositórios ( em desenvolvimento)
