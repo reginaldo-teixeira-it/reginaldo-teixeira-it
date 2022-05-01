@@ -22,7 +22,7 @@ Trabalho com desenvolvimento e manutenção de softwares coorporativos desde 200
 -->
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
   
-  __Database Developer__:
+  __ - Database Developer__: 
   [![MSSQL](https://img.shields.io/badge/-MSSQL-purple?style=flat&logo=sqlserver&logoColor=purple&link=https://github.com/Quananhle)](https://github.com/Quananhle/Database-Management/tree/master/SQL)
   [![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-orange?style=flat&logo=oraclesql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 <!--   [![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=orange&link=https://github.com/Quananhle)](https://github.com/Quananhle/Database-Management/tree/master/SQL) -->
@@ -33,13 +33,29 @@ Trabalho com desenvolvimento e manutenção de softwares coorporativos desde 200
 <p align="center">
  
   
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/csharp_dotnet.svg" alt="js" style="width:120px heigth:25px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/csharp_dotnet.svg" alt="js" style="width:120px heigth:15px">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
   
 ---
   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <p align="center"> 
   <i> Follow me on my social networks: </i>
 </p>
