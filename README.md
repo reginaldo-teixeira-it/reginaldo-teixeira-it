@@ -33,19 +33,17 @@ __- 💻 Technologies & Tools__:
   __- Program languages__: 
  
  <p align="left">
- <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/csharp_dotnet.svg" alt="DotNet" style="height="10">
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
- 
- 
+   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/csharp_dotnet.svg" alt="DotNet" style="height="10">
+   <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+ </p>
+                                                                                                         
 <p align="center"> 
   <i> Follow me on my social networks: </i>
 </p>
 
 <p align="center">
- 
   <a target="_blank" href="https://www.linkedin.com/in/reginaldo-teixeira/">
      <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" width="120px" alt="LinkedIn">
   </a> &nbsp; &nbsp;
