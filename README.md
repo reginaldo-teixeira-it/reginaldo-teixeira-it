@@ -41,8 +41,6 @@ __- Tech & Tools Preference__:
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/reginaldo-teixeira/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" width="120px" alt="LinkedIn"></a> &nbsp; &nbsp;
- 
     <a target="_blank" href="skype:reginaldo.teixeira.ti@live.com?chat"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/skype.svg" width="105px" alt="Skype"></a> &nbsp; &nbsp;
- 
   <a target="_blank" href="https://twitter.com/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/twitter-round.svg" width="40px" alt="Twitter">     </a> &nbsp; &nbsp;
 </p>
