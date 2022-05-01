@@ -19,8 +19,10 @@ __- 💻 Technologies & Tools__:
  <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="25"/>
  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/wpf.svg" alt="Xamarin" height="25"/>
+ <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" height="25">
  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/xamarin_forms.svg" alt="Xamarin" height="25"/>
  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20reactnative.svg" alt="Xamarin" height="25"/>
+ <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" height="25">
 
 </p>
 
