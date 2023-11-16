@@ -1,5 +1,5 @@
 ## Hi there 📝🚀
-I'm Reginaldo Teixeira, I'm **Software Developer (Mid level)** and I really like a new challenger. I'm from Brazil, and I'm currently living in Curitiba.
+I'm Reginaldo Teixeira, I'm **Software Developer** and I really like a new challenger. I'm from Brazil, and I'm currently living in Curitiba.
 
 I love study, build new projects, and work with dedicate team to solve problems.
 
