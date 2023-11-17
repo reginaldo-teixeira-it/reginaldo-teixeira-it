@@ -10,7 +10,7 @@ I love study, build new projects, and work with dedicate team to solve problems.
 
 These are some of the technologies and tools that I work with:
 
-![C#](https://img.shields.io/badge/-csharp-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-c#-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
