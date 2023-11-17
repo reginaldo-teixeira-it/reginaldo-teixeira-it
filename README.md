@@ -11,7 +11,7 @@ I love study, build new projects, and work with dedicate team to solve problems.
 These are some of the technologies and tools that I work with:
 
 ![C#](https://img.shields.io/badge/-CSharp-007396?style=flat-square&logo=dotnet&logoColor=white)
-![.NetCore](https://img.shields.io/badge/-.NetCore-6DB33F?style=flat-square&logo=dotnet&logoColor=white)
+![.NetCore](https://img.shields.io/badge/-Core-592c8c?style=flat-square&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
