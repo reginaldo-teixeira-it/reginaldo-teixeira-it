@@ -3,8 +3,11 @@ I'm Reginaldo Teixeira, I'm **Software Developer** and I really like a new chall
 
 I love study, build new projects, and work with dedicate team to solve problems.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivanjcarlota/)]([https://www.linkedin.com/in/ivanjcarlota/](https://www.linkedin.com/in/reginaldo-teixeira/)){:target="_blank"}
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547991750520&text=Hello!)](https://api.whatsapp.com/send?phone=5547991750520&text=Olá!){:target="_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivanjcarlota/)]([https://www.linkedin.com/in/ivanjcarlota/](https://www.linkedin.com/in/reginaldo-teixeira/))
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547991750520&text=Hello!)](https://api.whatsapp.com/send?phone=5547991750520&text=Olá!)
+
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5547991750520&text=Olá!){:target="_blank"}
+
 
 ## ⚡ Technologies:
 
